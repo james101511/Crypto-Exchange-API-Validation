@@ -1,0 +1,2 @@
+cdc:
+  url: ${crpyto-host:https://api.crypto.com/v2}
